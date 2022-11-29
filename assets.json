@@ -1,0 +1,835 @@
+[
+  {
+    "index": 1,
+    "type": "Background",
+    "value": "Blue",
+    "data": "0x140a4261636b67726f756e6404426c75650000006e7c96ff",
+    "color": "6e7c96ff"
+  },
+  {
+    "index": 2,
+    "type": "Background",
+    "value": "Brown",
+    "data": "0x140a4261636b67726f756e640542726f776e00008d756bff",
+    "color": "8d756bff"
+  },
+  {
+    "index": 3,
+    "type": "Background",
+    "value": "Green",
+    "data": "0x140a4261636b67726f756e6405477265656e00006d9590ff",
+    "color": "6d9590ff"
+  },
+  {
+    "index": 4,
+    "type": "Background",
+    "value": "Orange",
+    "data": "0x140a4261636b67726f756e64064f72616e676500ca7d4eff",
+    "color": "ca7d4eff"
+  },
+  {
+    "index": 5,
+    "type": "Background",
+    "value": "Pink",
+    "data": "0x140a4261636b67726f756e640450696e6b000000dd949cff",
+    "color": "dd949cff"
+  },
+  {
+    "index": 6,
+    "type": "Background",
+    "value": "Purple",
+    "data": "0x140a4261636b67726f756e6406507572706c6500908aa0ff",
+    "color": "908aa0ff"
+  },
+  {
+    "index": 7,
+    "type": "Beak",
+    "value": "Cigarette",
+    "data": "0x10044265616b09436967617265747465100b07015453537d61606091747373ad848282c4ffb65effffffffff871001ff0f210fffff720fff230fff040fd56f0700",
+    "file": "cigarette.png"
+  },
+  {
+    "index": 8,
+    "type": "Beak",
+    "value": "Joint",
+    "data": "0x0c044265616b054a6f696e74100b06015453537d61606091747373ad848282c4efde92ff007627ff0f210fffff720fff230fff040fd5f160",
+    "file": "joint.png"
+  },
+  {
+    "index": 9,
+    "type": "Beak",
+    "value": "Mask",
+    "data": "0x0c044265616b044d61736b00070e0400e0e5e7ff8ee8ffff83e2fbff69cbe2ff1f80fd2f1340fd2f1340f81f70",
+    "file": "beak_mask.png"
+  },
+  {
+    "index": 10,
+    "type": "Beak",
+    "value": "Vape",
+    "data": "0x0c044265616b045661706500101002005a5a5aff10b3d3ff1f0200",
+    "file": "vape.png"
+  },
+  {
+    "index": 11,
+    "type": "Body",
+    "value": "Bathrobe",
+    "data": "0x1004426f64790842617468726f62650007120900d03b4bffd13c4cff9e151bffd03c4cff9d141bff9e151cff650a12ff650911ff660a12ff1210f0120fb3314001430fb3511004130fb5611001130fb7787798880fb66332263300",
+    "file": "bathrobe.png"
+  },
+  {
+    "index": 12,
+    "type": "Body",
+    "value": "Black Suit",
+    "data": "0x1404426f64790a426c61636b205375697400000007120500000000ff2d2d2dffb3b3b3ffff2f16ff404040ff1f50fb2213141310fb5521313150fb5552141550fb5552141550fb5552141550",
+    "file": "black_suit.png"
+  },
+  {
+    "index": 13,
+    "type": "Body",
+    "value": "Black Suit Turtle Neck",
+    "data": "0x2004426f647916426c61636b205375697420547572746c65204e65636b00000007110300000000ff2d2d2dff404040ff1f50fb1f50fb221f30fb3321f130fb3332111330fb3332111330fb3332111330",
+    "file": "black_suit_turtle_neck.png"
+  },
+  {
+    "index": 14,
+    "type": "Body",
+    "value": "Bow Tie",
+    "data": "0x1004426f647907426f772054696500000a130300b11f0eff9e1b0cff6f1209ff120210ff113110ff120210",
+    "file": "bowtie.png"
+  },
+  {
+    "index": 15,
+    "type": "Body",
+    "value": "Dog Leash",
+    "data": "0x1004426f647909446f67204c6561736807130200b11f0efff8d400ff1f50fff020",
+    "file": "dog_leash.png"
+  },
+  {
+    "index": 16,
+    "type": "Body",
+    "value": "Hi-Vis",
+    "data": "0x1004426f64790648692d56697300000007120300000000ffffa800ffa7a7a7ff1f101110fb2f0101220fb2f0101220fb2f112220fb3f50fb2f50",
+    "file": "hi_vis.png"
+  },
+  {
+    "index": 17,
+    "type": "Body",
+    "value": "Inflatable Tube",
+    "data": "0x1804426f64790f496e666c617461626c652054756265000001130b010000000103000004d11d21ffdfdfdfff0100000203000003ff2728ffffffffff020000030400000504000006001234443f0444330f3506378887f0888773000900a06378887f0888773000500b00034443f0444330f090fff010",
+    "file": "inflatable_tube.png"
+  },
+  {
+    "index": 18,
+    "type": "Body",
+    "value": "Kimono",
+    "data": "0x1004426f6479064b696d6f6e6f00000007120200ff3d2dfff9cac9ff1110001110fb2221012220fb2f012f00fb2f112220fb2f21220fb2f31200",
+    "file": "kimono.png"
+  },
+  {
+    "index": 19,
+    "type": "Body",
+    "value": "Knitted Sweater",
+    "data": "0x1804426f64790f4b6e69747465642053776561746572000007120400f1e7c6ffd0c6a5ff888888ffff2729ff1212121210fb1f50fb3131313130fb1343434310fb1131313110fb1f50",
+    "file": "knitted_sweater.png"
+  },
+  {
+    "index": 20,
+    "type": "Body",
+    "value": "Necklace",
+    "data": "0x1004426f6479084e65636b6c6163650007120100f8d400ff10f310fc10f110fe100010ff01110ff0011100",
+    "file": "necklace.png"
+  },
+  {
+    "index": 21,
+    "type": "Body",
+    "value": "Necklace Pink Diamond",
+    "data": "0x1c04426f6479154e65636b6c6163652050696e6b204469616d6f6e6407120200f8d400ffff9ee7ff10f310fc10f110fe100010ff01110ff0012100",
+    "file": "necklace_pink_diamond.png"
+  },
+  {
+    "index": 22,
+    "type": "Body",
+    "value": "Pilot Jacket",
+    "data": "0x1404426f64790c50696c6f74204a61636b65740007110a00f7e5c2ffefdcacffefdcabfff0dcacff5f3000fff8e6c2fff7e5c1ffe9ddc0ff5e2f00ff5f2f00ff1210ff003414300040fb5627630130fb5548130460fb59a4450a20fb59555a05a0fb555a9a0550",
+    "file": "pilot_jacket.png"
+  },
+  {
+    "index": 23,
+    "type": "Body",
+    "value": "Referee Shirt",
+    "data": "0x1404426f64790d5265666572656520536869727407120300000000ffffffffff393939ff1f101110fb2323101320fb2323212320fb2323232320fb2323232320fb2323232320",
+    "file": "referee_shirt.png"
+  },
+  {
+    "index": 24,
+    "type": "Body",
+    "value": "Scarf",
+    "data": "0x0c04426f647905536361726602100200b11f0effe22d1bff10fff2110ff00101f6220f7101f22f10f610f02f50",
+    "file": "scarf.png"
+  },
+  {
+    "index": 25,
+    "type": "Body",
+    "value": "Tuxedo",
+    "data": "0x1004426f64790654757865646f00000006120600b11f0eff9e1b0cff6f1209ff000000ffffffffff726e6eff000120210ff113110fc44412521440fb4465556440fb4465556440fb4446564440",
+    "file": "tuxedo.png"
+  },
+  {
+    "index": 26,
+    "type": "Body",
+    "value": "White Suit",
+    "data": "0x1404426f64790a5768697465205375697400000007120400000000fffffffffff0f0f0ffff2f16ff1f50fb2213141310fb2221313120fb2f0141220fb2f0141220fb2f01412200",
+    "file": "white_suit.png"
+  },
+  {
+    "index": 27,
+    "type": "Head",
+    "value": "Amish Hat",
+    "data": "0x10044865616409416d6973682048617401040200000000ff525151ff0f31f30fc1f50fa1f70f92f70f41ff110f01ff00",
+    "file": "amish_hat.png"
+  },
+  {
+    "index": 28,
+    "type": "Head",
+    "value": "Antenna",
+    "data": "0x10044865616407416e74656e6e6100000a01030009f400ff767373ffb2b2b2ff010fff120fff120fff033300",
+    "file": "antenna.png"
+  },
+  {
+    "index": 29,
+    "type": "Head",
+    "value": "Ape Mask",
+    "data": "0x10044865616408417065204d61736b0007040800000000ffda4300ff9f2f00ff38240cff8a6f53ff6d563cffaf8b66ff925500ff0f01f20fd12f210fb12f410f913f610f81323232323210f9145f310fa14566556610f9144517551710f811145f310f88814455115510f81114445f0410fa1445f210fb1451f0510fc15f210fd15f010ff1f000",
+    "file": "ape_mask.png"
+  },
+  {
+    "index": 30,
+    "type": "Head",
+    "value": "Bandage",
+    "data": "0x1004486561640742616e64616765000007060300000000ffffffffffe6e6e6ff0012310ff1231f20fa12312f10fb2313f20fb31f50fa10",
+    "file": "bandage.png"
+  },
+  {
+    "index": 31,
+    "type": "Head",
+    "value": "Bandana",
+    "data": "0x1004486561640742616e64616e61000003050200b11f0effffffffff0f11f30fc1112112110fa1f70f6110112112111210f81f80f710fff010",
+    "file": "bandana.png"
+  },
+  {
+    "index": 32,
+    "type": "Head",
+    "value": "Beanie",
+    "data": "0x100448656164064265616e696500000005030300000000ff5a5a5aff2f2e2dff0001f30fc12f310fa12f510f912f510f813f710f713232323232310f71f900",
+    "file": "beanie.png"
+  },
+  {
+    "index": 33,
+    "type": "Head",
+    "value": "Beekeeper",
+    "data": "0x100448656164094265656b656570657202030801fffef9fffffdf9fffffdf8ff9a9995ffa4a39fffe8e7e2ffe8e6e2ff0000008a0f21f220fc1311211210fa1f5210f81f4211130f645fa0f36f07676f0766676660f18ff0f18ff0f18ff0f18ff0f18ff0f18ff0f18ff0f18ff0f18ff0f18ff0f18ff0f18ff0",
+    "file": "beekeeper.png"
+  },
+  {
+    "index": 34,
+    "type": "Head",
+    "value": "Big Red Beanie",
+    "data": "0x1804486561640e42696720526564204265616e696500000004020400000000ffb11f0effe22d1bff8e180cff0001f50fa1223f310f81223f510f7123f610f7123f610f614f910f51434343434343410f51fb00",
+    "file": "big_red_beanie.png"
+  },
+  {
+    "index": 35,
+    "type": "Head",
+    "value": "Black Hat",
+    "data": "0x10044865616409426c61636b2048617404020200000000ffffffffff0f01f30fc1f50fb1f50fb1f50fb2f50f81fb0f61f900",
+    "file": "black_hat.png"
+  },
+  {
+    "index": 36,
+    "type": "Head",
+    "value": "Black Mohawk",
+    "data": "0x1404486561640c426c61636b204d6f6861776b0008010100000000ff0f0110ff001110ff01f00ff1f10fe1f20ff00110fff110",
+    "file": "black_mohawk.png"
+  },
+  {
+    "index": 37,
+    "type": "Head",
+    "value": "Bowler Hat",
+    "data": "0x1404486561640a426f776c65722048617400000005040400000000ff2f2e2dff5a5a5aff313131ff0001f30fc123f210fa123f410f91f70f814f710f71f900",
+    "file": "bowler_hat.png"
+  },
+  {
+    "index": 38,
+    "type": "Head",
+    "value": "Brown Hat",
+    "data": "0x1004486561640942726f776e2048617403020500693801ffa55d07ff412302ff55310aff030303ff0f01f0220fd1133112220fb11333112210fa1f70f64005f70f64f23f70f44f53f200",
+    "file": "brown_hat.png"
+  },
+  {
+    "index": 39,
+    "type": "Head",
+    "value": "Bucket Hat",
+    "data": "0x1404486561640a4275636b657420486174000000040302008e29beff601982ff0f01f30fc1f50fb1f50fa2f70f81f90f61fb00",
+    "file": "bucket_hat.png"
+  },
+  {
+    "index": 40,
+    "type": "Head",
+    "value": "Burning Head",
+    "data": "0x1404486561640c4275726e696e6720486561640004000200ffd700ffff9f00ff0f01010ff0011010ff101f10fa100100122110fb101f022110f8101212f1110f9112112f1110f812f610f8112f00ff1200",
+    "file": "burning_head.png"
+  },
+  {
+    "index": 41,
+    "type": "Head",
+    "value": "Cap",
+    "data": "0x0c0448656164034361700000060401008e29beff001f30fc1f50fa1f60fa1fa0f61fb0",
+    "file": "cap.png"
+  },
+  {
+    "index": 42,
+    "type": "Head",
+    "value": "Cap Backwards",
+    "data": "0x1404486561640d436170204261636b776172647302040100000000ff0f21f30fc1f50fa1f70f91f70f61f40001110f51fb00",
+    "file": "cap_backwards.png"
+  },
+  {
+    "index": 43,
+    "type": "Head",
+    "value": "Cap Forwards",
+    "data": "0x1404486561640c43617020466f7277617264730006040300000000ff353535ff515151ff001f30fc123f210fa123f410f913331f40f813312f410f71f900",
+    "file": "cap_forwards.png"
+  },
+  {
+    "index": 44,
+    "type": "Head",
+    "value": "Clown Hair",
+    "data": "0x1404486561640a436c6f776e204861697200000003020b003be72aff09e768ff81e729ffb3e829ffdfe829ffecdc28ffedc629ffeda529ffee7729ffee6029ffef382aff0f11220ff311220fe4331110fd54433310fc5f044310fc65f04310fc6f0550fe7f10ff78880ff009aa0fff0ab0",
+    "file": "clown_hair_left.png"
+  },
+  {
+    "index": 45,
+    "type": "Head",
+    "value": "Cowboy Hat",
+    "data": "0x1404486561640a436f77626f792048617400000003020400693801ffa55d07ff55310aff412302ff0f11112f00fc1f12f010f91f322110f91f70f63003f11f20040f33f24f70f43f54f200",
+    "file": "cowboy_hat.png"
+  },
+  {
+    "index": 46,
+    "type": "Head",
+    "value": "Crazy Hair",
+    "data": "0x1404486561640a4372617a79204861697200000002030100000000ff0f0110f01f10f61001f600110f31fc0f41fd0f41fb0f41f5001f10f31f30011001110f61f00f41110f41f10f41110f4101110f4110f61f00f4110f61110f5110",
+    "file": "crazy_hair.png"
+  },
+  {
+    "index": 47,
+    "type": "Head",
+    "value": "Crown",
+    "data": "0x0c04486561640543726f776e06020300000000fff7d60dffffee72ff0f210ff010121010fc1212221210fa11211211210f9132323232310f912f510f91f700",
+    "file": "crown.png"
+  },
+  {
+    "index": 48,
+    "type": "Head",
+    "value": "Dorag",
+    "data": "0x0c044865616405446f72616706050200000000ff4c4c4cff001f30fc12f310fa12f510f912f510f912f510",
+    "file": "dorag.png"
+  },
+  {
+    "index": 49,
+    "type": "Head",
+    "value": "Falling in Love",
+    "data": "0x1804486561640f46616c6c696e6720696e204c6f766500000c010200000000ffe22d1bff0f21010ff0121210ff122210fb101001210fb121210010fc122210ff01210fff0100",
+    "file": "falling_in_love.png"
+  },
+  {
+    "index": 50,
+    "type": "Head",
+    "value": "Feather Headband",
+    "data": "0x1804486561641046656174686572204865616462616e640002030400ff5000ff1b1813fffdfbf7ff63450bff110fff012310ff0032130ff011230ff0033230fff0324f50f94f70",
+    "file": "feather_headband.png"
+  },
+  {
+    "index": 51,
+    "type": "Head",
+    "value": "Fedora",
+    "data": "0x100448656164064665646f7261000000030304003d2f1eff3c2f1eff3d301fff000000ff0f2121110fe11121220fd1f1310fc1131231320fa4f70f7121112f01222110f4111232211131331220",
+    "file": "fedora.png"
+  },
+  {
+    "index": 52,
+    "type": "Head",
+    "value": "French Beret",
+    "data": "0x1404486561640c4672656e636820426572657400030406000d0d0dff303030ff32312fff32302fff33312fff51504dff0f410ff023f02220fa22333432f00f8234342f30f72533232f30f63336f70f633300",
+    "file": "french_beret.png"
+  },
+  {
+    "index": 53,
+    "type": "Head",
+    "value": "Fro",
+    "data": "0x0c04486561640346726f0000030201001e1e1eff0001f60f91f80f71fa0f61fa0f51fc0f41fc0f41f20f21f00f41f10f41110f41f10f510f6110fff110",
+    "file": "fro.png"
+  },
+  {
+    "index": 54,
+    "type": "Head",
+    "value": "Green Glasses Forehead",
+    "data": "0x20044865616416477265656e20476c617373657320466f72656865616400000007070300000000ff4cd191ff5afbafff001f001f00fb1221012210fa11331113310f9101f001f000",
+    "file": "green_glasses_forehead.png"
+  },
+  {
+    "index": 55,
+    "type": "Head",
+    "value": "Hair",
+    "data": "0x0c044865616404486169720004030200692801ffb35d2bff0f1110110fc1102112110fc2112112110f811222112112110f8111221121f00fa120",
+    "file": "hair.png"
+  },
+  {
+    "index": 56,
+    "type": "Head",
+    "value": "Hair Net",
+    "data": "0x1004486561640848616972204e65740007060100000000ff00101010fe10101010fc1010101010fb1f50",
+    "file": "hair_net.png"
+  },
+  {
+    "index": 57,
+    "type": "Head",
+    "value": "Headband",
+    "data": "0x100448656164084865616462616e640007080200c9e4f8ff77c2f7ff1f50fb2f50",
+    "file": "headband.png"
+  },
+  {
+    "index": 58,
+    "type": "Head",
+    "value": "Helicopter Cap",
+    "data": "0x1804486561640e48656c69636f7074657220436170000000060309000060c3ff0060c2ff000000ffe4ea17ffe4eb17ffd51e03ffd61e04ffe5eb17ffe5eb18ff000111220ff0030ff012445670fc1124897660fa211444887760f9224449455760",
+    "file": "helicopter_cap.png"
+  },
+  {
+    "index": 59,
+    "type": "Head",
+    "value": "Helmet",
+    "data": "0x1004486561640648656c6d657400000005030800000000ffffffffff9f9f9fff949494ff969696ff888888ff8a8a8aff636363ff010f510f812100111001210f712211333112210f712224445422210f8126f176210f9168686868610f91f700",
+    "file": "helmet.png"
+  },
+  {
+    "index": 60,
+    "type": "Head",
+    "value": "Ice Hockey Helmet",
+    "data": "0x1804486561641149636520486f636b65792048656c6d657405050701c61c01ff961300ffe32000ffe72100ffb0b1ffff637085879e9ee5e500012121210fc1323232310fa133232323310f913f023f010f813f710f7145f5310f71456f4310f71456f4310f71456f4310f714766600",
+    "file": "ice_hockey_helmet.png"
+  },
+  {
+    "index": 61,
+    "type": "Head",
+    "value": "Lucky Hat",
+    "data": "0x100448656164094c75636b79204861740403030000642aff4e2822fff7d60dff0001f50fa1f70f91f70f91f70f922332f30f81f90f61fb00",
+    "file": "lucky_hat.png"
+  },
+  {
+    "index": 62,
+    "type": "Head",
+    "value": "Mask",
+    "data": "0x0c0448656164044d61736b0007070300000000ffffffffff925500ff0f01f20fd12f210fb12f410fa12f410fa12211211210f81112211211210f83312f410f81112f410fa12f0112210fa12f410fb12f210fd1f200",
+    "file": "mask.png"
+  },
+  {
+    "index": 63,
+    "type": "Head",
+    "value": "Military Helmet",
+    "data": "0x1804486561640f4d696c69746172792048656c6d6574000005040300000000ff534c1eff8e7d00ff0001f30fc123f210fa123f410f9123f410f812f710f71f90fffffffffffffff41110",
+    "file": "military_helmet.png"
+  },
+  {
+    "index": 64,
+    "type": "Head",
+    "value": "Mirror Glasses Forehead",
+    "data": "0x200448656164174d6972726f7220476c617373657320466f726568656164000006080900d92f6cffc52c75ffad297fff94268aff792495ff61239fff4d23a7ff3f23adffe83166ff0012345678880f9901234067880f89000120006700",
+    "file": "mirror_glasses_forehead.png"
+  },
+  {
+    "index": 65,
+    "type": "Head",
+    "value": "Mohawk",
+    "data": "0x100448656164064d6f6861776b00000008010b00000000ffab6510ffa9620fff844905ffa55e0fffa55e10ff834705ffa25a0fff9f5710ff9f560fff9c520fff0f0110ff001210ff013310ff145610fe1788810ff009a0fff1b0",
+    "file": "mohawk.png"
+  },
+  {
+    "index": 66,
+    "type": "Head",
+    "value": "Napoleon Hat",
+    "data": "0x1404486561640c4e61706f6c656f6e204861740003030500bea002ff000000ffc71d24fff8f7f5ff0333f0ff0f01f50fa12f33210f812f3343210f612f5522210f412fb10f32fd0f32fd00",
+    "file": "napoleon_hat.png"
+  },
+  {
+    "index": 67,
+    "type": "Head",
+    "value": "Orange Beanie",
+    "data": "0x1404486561640d4f72616e6765204265616e696505050700000000ffda4300ffd94300ffda4400ff9f2f00ff9f2e00ffa02f00ff0001f30fc12f310fa12f232410f815565f0777610f7152627252527100",
+    "file": "orange_beanie.png"
+  },
+  {
+    "index": 68,
+    "type": "Head",
+    "value": "Oriental Hat",
+    "data": "0x1404486561640c4f7269656e74616c204861740003030500fccf93fffac885fff9cf97fff3b969ffffcd6dff0f2121120fe22134110fc1f0511220fa121123211120f812212121112110f621f321f120f41121fa00",
+    "file": "oriental_hat.png"
+  },
+  {
+    "index": 69,
+    "type": "Head",
+    "value": "Party Hat",
+    "data": "0x1004486561640950617274792048617402010300000000ff98242fffffffffff010fff012110ff00123110ff12233110fe123f00fe1223310ff12210ff012100",
+    "file": "party_hat.png"
+  },
+  {
+    "index": 70,
+    "type": "Head",
+    "value": "Pepe Mask",
+    "data": "0x1004486561640950657065204d61736b07070800000000ff109933ff0c7125ffffffffff030303ff925500ff941200ffbe1900ff0f01110110fd122212210fb12f410fa12333233310fa12454245410f81112333233310f86612f410f8111227f210fa12228f110fa12f410fb12f210fd1f200",
+    "file": "pepe_mask.png"
+  },
+  {
+    "index": 71,
+    "type": "Head",
+    "value": "Pirate Bandana",
+    "data": "0x1804486561640e5069726174652042616e64616e6100000003050200000000ffffffffff0f11f30fc1f0222110fa1f221f00f61101f12121110f81f80f710fff0100",
+    "file": "pirate_bandana.png"
+  },
+  {
+    "index": 72,
+    "type": "Head",
+    "value": "Police Cap",
+    "data": "0x1404486561640a506f6c6963652043617000000005030400000000ff262c5cffffe400ffffffffff0f21110fc1f12221110f812f232f010f712f710f8141414141410f91112f410fb1f500",
+    "file": "police_cap.png"
+  },
+  {
+    "index": 73,
+    "type": "Head",
+    "value": "Raincoat",
+    "data": "0x100448656164085261696e636f61740003030400706107fff7d60dff000000ff101002ff0f31110ff11222110fc12f310fa12f510f812f710f612223f044422210f512230f342210f51230f54210f41220f72210f31230f74210f31230f74210f31230f744210f21230f83210f21230f733210f21230f73210f31230f73210f4120f63210f512330f333210f61230f33210f71230f33210f71230f332100",
+    "file": "raincoat.png"
+  },
+  {
+    "index": 74,
+    "type": "Head",
+    "value": "Shower Cap",
+    "data": "0x1404486561640a53686f77657220436170000000050403017ccee3e387e3ffff62b0fbff001f001110fb1f70f81f90f71f90f82f70f93f70",
+    "file": "shower_cap.png"
+  },
+  {
+    "index": 75,
+    "type": "Head",
+    "value": "Skeleton Mask",
+    "data": "0x1404486561640d536b656c65746f6e204d61736b07070300000000ffffffffff925500ff0f01f20fd12f210fb12f410fa12f410fa12211221110f81112211221110f83312f410f81112f112210fb12f310fc12121210fd12212110fd12f110fe1f10",
+    "file": "skeleton_mask.png"
+  },
+  {
+    "index": 76,
+    "type": "Head",
+    "value": "Ski Mask",
+    "data": "0x10044865616408536b69204d61736b0006050400000000ff5a5a5aff313131ff424242ff001f30fc12f310fa12f510f912f510f912f510f912f510f912f510f9122002220010f9122002220010f912f10fe12f10fe12f10fe12f510f9134343434310f9134343434310f91f700",
+    "file": "ski_mask.png"
+  },
+  {
+    "index": 77,
+    "type": "Head",
+    "value": "Space Suit",
+    "data": "0x1404486561640a5370616365205375697400000004030601000000ff00101921ffffffffd1204eff006598ff0083c7ff0001f50fa12f510f812f710f612f910f512f910f512f910f512f910f512f910f512f910f512f910f512f910f512f910f512f910f512f910f512f910f512f910f51fb0f513f910f51134443f3110f613563f410f713f710",
+    "file": "space_suit.png"
+  },
+  {
+    "index": 78,
+    "type": "Head",
+    "value": "Straw Hat",
+    "data": "0x1004486561640953747261772048617403040500f1ce69fffadd98fff7ce6efff4da8aff002362ff000123313144140f9424341234420f95f70f95f70f63424423414344414400",
+    "file": "straw_hat.png"
+  },
+  {
+    "index": 79,
+    "type": "Head",
+    "value": "Stringy Hair",
+    "data": "0x1404486561640c537472696e677920486169720006060100000000ff010101010fc100101010fc1010100010fb1010010010",
+    "file": "stringy_hair.png"
+  },
+  {
+    "index": 80,
+    "type": "Head",
+    "value": "The Elvis",
+    "data": "0x1004486561640954686520456c76697305030200000000ff8b8787ff0f31f10fb1f1221110f91f12112110f81121f22110f71121f60f7121f4010f81f10ff1f00ff01f00ff01010ff0010fffff910fff1110",
+    "file": "the_elvis.png"
+  },
+  {
+    "index": 81,
+    "type": "Head",
+    "value": "Tiara",
+    "data": "0x0c044865616405546961726107080200f8d400ffff9ee7ff1f101110ff010fff01210fff0100",
+    "file": "tiara.png"
+  },
+  {
+    "index": 82,
+    "type": "Head",
+    "value": "Turban",
+    "data": "0x1004486561640654757262616e00000005030500b3b3b1fffdfae8ffe4e4dbffd750eeffcdcdcdff001f50fa12f33210f812f3322210f712f1452f010f712f152f110f712f05052f010f81f00001f000",
+    "file": "turban.png"
+  },
+  {
+    "index": 83,
+    "type": "Type",
+    "value": "Alien",
+    "data": "0x0c045479706505416c69656e06050300000000ffcafcfaff86e3e1ff001f30fc12f310fa12f510f912f510f912f510f912f510f912f510f9122312223110f9122132221310f912f11f30f712f13f210f712f13f01110f712f510f912f510f912f510f912f510f912f510f912f510f912f510",
+    "file": "alien.png"
+  },
+  {
+    "index": 84,
+    "type": "Type",
+    "value": "Blue",
+    "data": "0x0c045479706504426c75650006050500000000ff4fbae3ff3a88a6ffffffffffff9600ff001f30fc12f310fa12f510f912f510f912f510f912f510f912f510f9122332223310f9122142221410f912f11f30f712f15f210f712f15f01110f712f510f912f510f912f510f912f510f912f510f912f510f912f510",
+    "file": "blue.png"
+  },
+  {
+    "index": 85,
+    "type": "Type",
+    "value": "Brown",
+    "data": "0x0c04547970650542726f776e06050500000000ff97682fff6e4c23ffffffffffff9600ff001f30fc12f310fa12f510f912f510f912f510f912f510f912f510f9122332223310f9122142221410f912f11f30f712f15f210f712f15f01110f712f510f912f510f912f510f912f510f912f510f912f510f912f510",
+    "file": "brown.png"
+  },
+  {
+    "index": 86,
+    "type": "Type",
+    "value": "Grey",
+    "data": "0x0c045479706504477265790006050500000000ff939393ff6b6b6bffe5e5e5ff484848ff001f30fc12f310fa12f510f912f510f912f510f912f510f912f510f9122332223310f9122142221410f912f11f30f712f15f210f712f15f01110f712f510f912f510f912f510f912f510f912f510f912f510f912f510",
+    "file": "grey.png"
+  },
+  {
+    "index": 87,
+    "type": "Type",
+    "value": "Imposter",
+    "data": "0x10045479706508496d706f737465720006050500000000ff666666ffffffffff888888ffffdb00ff001f30fc12f310fa12f510f9122332223310f9123f0233310f9123f410f9123f410f9123443334410f912313f01310f9123f01f20f8123f05f110f8123f05f0110f8123f410f9123f410f9123f410f9123f410f9123f410f9123f410f9123f4100",
+    "file": "imposter.png"
+  },
+  {
+    "index": 88,
+    "type": "Type",
+    "value": "Mallard",
+    "data": "0x100454797065074d616c6c617264000006050600000000ff2d6124ff20461affffffffffff9600ff553935ff001f30fc12f310fa12f510f912f510f912f510f912f510f912f510f9122332223310f9122142221410f912f11f30f712f15f210f712f15f01110f712f510f914f510f914f510f916f510f916f510f916f510f916f510",
+    "file": "mallard.png"
+  },
+  {
+    "index": 89,
+    "type": "Type",
+    "value": "Purple",
+    "data": "0x10045479706506507572706c6500000006050500000000ff7c5fb3ff5b4583ffffffffffff9600ff001f30fc12f310fa12f510f912f510f912f510f912f510f912f510f9122332223310f9122142221410f912f11f30f712f15f210f712f15f01110f712f510f912f510f912f510f912f510f912f510f912f510f912f510",
+    "file": "purple.png"
+  },
+  {
+    "index": 90,
+    "type": "Type",
+    "value": "Rainbow",
+    "data": "0x100454797065075261696e626f77000006050b00000000ffa11300ffb22405ffcc4612ffe56c1cfff68c20fffeac1ffffdc31fffb98f17fffcd41fffffffffff001f30fc12f310fa13f510f914f510f915f510f916f510f917f510f9188998889910f91aa1baaa1b10",
+    "file": "rainbow_top.png"
+  },
+  {
+    "index": 91,
+    "type": "Type",
+    "value": "White",
+    "data": "0x0c045479706505576869746506050500000000ffffffffffbababaffe5e5e5ffff9600ff001f30fc12f310fa12f510f912f510f912f510f912f510f912f510f9122332223310f9122142221410f912f11f30f712f15f210f712f15f01110f712f510f912f510f912f510f912f510f912f510f912f510f912f510",
+    "file": "white.png"
+  },
+  {
+    "index": 92,
+    "type": "Type",
+    "value": "Yellow",
+    "data": "0x1004547970650659656c6c6f7700000006050500000000fff7d60dffb39c0affffffffffff9600ff001f30fc12f310fa12f510f912f510f912f510f912f510f912f510f9122332223310f9122142221410f912f11f30f712f15f210f712f15f01110f712f510f912f510f912f510f912f510f912f510f912f510f912f510",
+    "file": "yellow.png"
+  },
+  {
+    "index": 93,
+    "type": "Type",
+    "value": "Zombie",
+    "data": "0x100454797065065a6f6d62696500000006050600000000ff72a462ff58734fffff2600ff597450ffa68f65ff001f30fc12f310fa12f510f912f510f912f510f912f510f912f510f9122332223310f9122412224110f91225221f30f712f16f210f712f16f01110f712f1522210f912f510f912f510f912f510f912f510f912f510f912f510",
+    "file": "zombie.png"
+  },
+  {
+    "index": 94,
+    "type": "Eyes",
+    "value": "3D Glasses",
+    "data": "0x1404457965730a334420476c6173736573000000060a0600f0f0f0ff318dfcff338dfdfffd3233fffd3232fffe3233ff1f70fa11233145510fb1233165510fb1f500",
+    "file": "3d_glasses.png"
+  },
+  {
+    "index": 95,
+    "type": "Eyes",
+    "value": "Black Eye",
+    "data": "0x10044579657309426c61636b20457965080b0301130c377126196fe3160f41850110ff0012210ff013210ff00110",
+    "file": "black_eye.png"
+  },
+  {
+    "index": 96,
+    "type": "Eyes",
+    "value": "Black Sunglasses",
+    "data": "0x18044579657310426c61636b2053756e676c617373657300070c0100000000ff1f60fb1f001f00fc1100",
+    "file": "black_sunglasses.png"
+  },
+  {
+    "index": 97,
+    "type": "Eyes",
+    "value": "Blindfold",
+    "data": "0x10044579657309426c696e64666f6c64030c0100000000ff0f01f50f711001f50f9101f10fc10fff0100",
+    "file": "blindfold.png"
+  },
+  {
+    "index": 98,
+    "type": "Eyes",
+    "value": "Blue Glasses",
+    "data": "0x1404457965730c426c756520476c617373657300090b0300000000ff235581ff3b85c4ff011000110fc1221012210fb1331013310fc110001100",
+    "file": "blue_glasses.png"
+  },
+  {
+    "index": 99,
+    "type": "Eyes",
+    "value": "Closed Eyes",
+    "data": "0x1404457965730b436c6f73656420457965730000090d0100000000ff11000110",
+    "file": "closed_eyes.png"
+  },
+  {
+    "index": 100,
+    "type": "Eyes",
+    "value": "Diving Mask",
+    "data": "0x1404457965730b446976696e67204d61736b0000060b0301000000ff00000030003753751f60fa2113f30fc13f30fc1f50",
+    "file": "diving_mask.png"
+  },
+  {
+    "index": 101,
+    "type": "Eyes",
+    "value": "Eye Patch",
+    "data": "0x10044579657309457965205061746368070b0100000000ff1f50fc1f00ff001100",
+    "file": "eye_patch.png"
+  },
+  {
+    "index": 102,
+    "type": "Eyes",
+    "value": "Eyebrows",
+    "data": "0x1004457965730845796562726f777300080a0100000000ff1110001100",
+    "file": "eyebrows.png"
+  },
+  {
+    "index": 103,
+    "type": "Eyes",
+    "value": "Laser Eyes",
+    "data": "0x1404457965730a4c617365722045796573000000060d0100ff2600ff00010f010fd10f010fd10f010fd10f010fff0100",
+    "file": "laser_eyes.png"
+  },
+  {
+    "index": 104,
+    "type": "Eyes",
+    "value": "Monocle",
+    "data": "0x100445796573074d6f6e6f636c650000060b0301000000ff336475995a7d8a99000110ff0012210ff013310ff00110fffff310",
+    "file": "monocle.png"
+  },
+  {
+    "index": 105,
+    "type": "Eyes",
+    "value": "Orange Glasses",
+    "data": "0x1804457965730e4f72616e676520476c6173736573000000090b0300000000ffea5810ffea7037ff1f001f00fb1221012210fb1331113310fb1f001f00",
+    "file": "orange_glasses.png"
+  },
+  {
+    "index": 106,
+    "type": "Eyes",
+    "value": "Pilot Sunglasses",
+    "data": "0x1804457965731050696c6f742053756e676c617373657300070c0701000000e8513700e8523800e859451ae85a461be859451be8846d3be81233312320fc454404560fc77700",
+    "file": "pilot_sunglasses.png"
+  },
+  {
+    "index": 107,
+    "type": "Eyes",
+    "value": "Power Level Meter",
+    "data": "0x18044579657311506f776572204c6576656c204d65746572050a0501000000fffffefdff00f8eaff490b0b4afdffffff01f00ff12f010fe1324f00fd1324f00fd1524f00ff10",
+    "file": "power_level_meter.png"
+  },
+  {
+    "index": 108,
+    "type": "Eyes",
+    "value": "Purple Glasses",
+    "data": "0x1804457965730e507572706c6520476c6173736573000000090b0300000000ff642d9aff8141bfff1f001f00fb1221012210fb1331113310fb1f001f00",
+    "file": "purple_glasses.png"
+  },
+  {
+    "index": 109,
+    "type": "Eyes",
+    "value": "Reading Glasses",
+    "data": "0x1804457965730f52656164696e6720476c61737365730000060b0401000000e3000000ff000000300210303000012000220fa32244222440fc244202440fd220",
+    "file": "reading_glasses.png"
+  },
+  {
+    "index": 110,
+    "type": "Eyes",
+    "value": "Robot Eyes",
+    "data": "0x1404457965730a526f626f742045796573000000080c0500000000ff313131ff227384ff2c9fb6ff10b3d3ff01f30fc123454320fd1110",
+    "file": "robot_eyes.png"
+  },
+  {
+    "index": 111,
+    "type": "Eyes",
+    "value": "Superhero Blue",
+    "data": "0x1804457965730e53757065726865726f20426c7565000000040c0200262c5cffffffffff001f60f81011122111220f91f30fc100",
+    "file": "superhero_blue.png"
+  },
+  {
+    "index": 112,
+    "type": "Eyes",
+    "value": "Superhero Green",
+    "data": "0x1804457965730f53757065726865726f20477265656e0000040c020000c59affffffffff001f60f81011122111220f91f30fc100",
+    "file": "superhero_green.png"
+  },
+  {
+    "index": 113,
+    "type": "Eyes",
+    "value": "Third Eye",
+    "data": "0x100445796573095468697264204579650c09030100000045000000ffffffffff110fff0230",
+    "file": "third_eye.png"
+  },
+  {
+    "index": 114,
+    "type": "Eyes",
+    "value": "Unibrow",
+    "data": "0x10044579657307556e6962726f770000080b0100000000ff1f40",
+    "file": "unibrow.png"
+  },
+  {
+    "index": 115,
+    "type": "Eyes",
+    "value": "Wink",
+    "data": "0x0c04457965730457696e6b00090d0100000000ff1100",
+    "file": "wink.png"
+  },
+  {
+    "index": 116,
+    "type": "Face",
+    "value": "Mole",
+    "data": "0x0c0446616365044d6f6c65000a1001010000006610",
+    "file": "mole.png"
+  },
+  {
+    "index": 117,
+    "type": "Face",
+    "value": "Tear",
+    "data": "0x0c0446616365045465617200080e010000ddffff10",
+    "file": "tear.png"
+  },
+  {
+    "index": 118,
+    "type": "",
+    "value": "",
+    "data": "0x040000000b0209000ae8a5ff0be9d5ff09e768ff17d1ecff239decff2780ecff2a61ecff2c45ecff4540ecff11220ff03122450fe31244560fd31245660fd312456770fc312456780ff057880ff008890ff00990",
+    "file": "clown_hair_right.png"
+  },
+  {
+    "index": 119,
+    "type": "",
+    "value": "",
+    "data": "0x04000000060e0c00000000ffc9db0dff8bdb0bffff9600ff57da0cff0bc172ff00b2acff00a4d6ff0089ebff2653ebff3d3ee5ff4934e0ff12f11f30f713f14f210f715f14f01110f716f510f917f510f918f510f919f510f91af510f91bf510f91cf510",
+    "file": "rainbow_bottom.png"
+  }
+]
